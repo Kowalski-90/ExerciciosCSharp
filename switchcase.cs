@@ -26,6 +26,9 @@ namespace My_Awesome_Project
                 case 5:
                     Console.WriteLine("Five");
                     break;
+                default:
+                    Console.WriteLine("Default");
+                    break;
             }
 
             //Wait before closing
