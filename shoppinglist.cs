@@ -1,4 +1,7 @@
-﻿using System;
+//Exercises from Brackeys series of YouTube videos about C# for begginners
+
+
+using System;
 using System.Collections.Generic; //Here are the lists funcionalities
 
 namespace My_Awesome_Project
