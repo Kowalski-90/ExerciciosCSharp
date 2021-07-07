@@ -1,4 +1,7 @@
-﻿using System;
+//Exercises from Brackeys series of YouTube videos about C# for begginners
+
+
+using System;
 
 namespace My_Awesome_Program
 {
